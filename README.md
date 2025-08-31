@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sum1tk
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Data Science at R.A. podar
+- 🌱 I’m currently learning Data Science at NMIMS
 - 📫 How to reach me @sumitkothari900@gmail.com
 
 <!---
